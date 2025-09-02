@@ -5,3 +5,8 @@ initally I used Vim text editor to write the c program and used terminal to run 
 My first program is the simple hello world program and i will be practicing further programming techniques and will be updating the repo with my practice files.
 
 Note: This repo does not contain any specific projects or any kind of other programs just simple to complex program files which i will practice and upload to maintain my progress.
+
+
+
+Day 2: 
+did the 2nd question from k&r and it is named as "1.2var_arith_exp" 1.2 refers to book and this is a simple program but yet teaches how the work flows at the system level and is best described in the book.

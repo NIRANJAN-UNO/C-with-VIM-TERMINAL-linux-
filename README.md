@@ -9,4 +9,5 @@ Note: This repo does not contain any specific projects or any kind of other prog
 
 
 Day 2: 
-did the 2nd question from k&r and it is named as "1.2var_arith_exp" 1.2 refers to book and this is a simple program but yet teaches how the work flows at the system level and is best described in the book.
+did the 2nd question from k&r and it is named as "1.2var_arith_exp" 1.2 refers to book and this is a simple program but yet teaches how the work flows at the system level and is best described in the book. and the fun thing i learnt is that printf does not belong to c itself and it is a function from standard library and c  does not have input or output. 
+
